@@ -1,0 +1,42 @@
+[INFO ] 2018-03-24 22:25:30.778 [main] BaseTest:30 - Start test 'testAddressCreation' with params [AddressData{, addressAlias='addressRef'firstName='Kolya', lastName='Ivanov', address='Petrovskogo st. 35', city='Kharkov', state='Alaska', zipCode='61033', country='United States', homePhone='+3809353613437', mobilePhone='093234567'}]
+[INFO ] 2018-03-24 22:25:48.786 [main] BaseTest:35 - Stop test testAddressCreation
+[INFO ] 2018-03-24 22:28:55.458 [main] BaseTest:30 - Start test 'testAddressCreation' with params [AddressData{, addressAlias='addressRef'firstName='Kolya', lastName='Ivanov', address='Petrovskogo st. 35', city='Kharkov', state='Alaska', zipCode='61033', country='United States', homePhone='+3809353613437', mobilePhone='093234567'}]
+[INFO ] 2018-03-24 22:29:13.755 [main] BaseTest:35 - Stop test testAddressCreation
+[INFO ] 2018-03-24 22:32:28.521 [main] BaseTest:30 - Start test 'testAddressCreation' with params [AddressData{, addressAlias='addressRef'firstName='Kolya', lastName='Ivanov', address='Petrovskogo st. 35', city='Kharkov', state='Alaska', zipCode='61033', country='United States', homePhone='+3809353613437', mobilePhone='093234567'}]
+[INFO ] 2018-03-24 22:32:45.600 [main] BaseTest:35 - Stop test testAddressCreation
+[INFO ] 2018-03-24 22:33:14.647 [main] BaseTest:30 - Start test 'testAddressCreation' with params [AddressData{, addressAlias='addressRef'firstName='Kolya', lastName='Ivanov', address='Petrovskogo st. 35', city='Kharkov', state='Alaska', zipCode='61033', country='United States', homePhone='+3809353613437', mobilePhone='093234567'}]
+[INFO ] 2018-03-24 22:33:31.999 [main] BaseTest:35 - Stop test testAddressCreation
+[INFO ] 2018-03-24 23:12:11.924 [main] BaseTest:30 - Start test 'testAddressCreation' with params [AddressData{, addressAlias='addressRef'firstName='Kolya', lastName='Ivanov', address='Petrovskogo st. 35', city='Kharkov', state='Alaska', zipCode='61033', country='United States', homePhone='+3809353613437', mobilePhone='093234567'}]
+[INFO ] 2018-03-24 23:12:21.281 [main] BaseTest:35 - Stop test testAddressCreation
+[INFO ] 2018-03-24 23:24:57.469 [main] BaseTest:30 - Start test 'testAddressCreation' with params [AddressData{, addressAlias='addressRef'firstName='Kolya', lastName='Ivanov', address='Petrovskogo st. 35', city='Kharkov', state='Alaska', zipCode='61033', country='United States', homePhone='+3809353613437', mobilePhone='093234567'}]
+[INFO ] 2018-03-24 23:25:06.230 [main] BaseTest:35 - Stop test testAddressCreation
+[INFO ] 2018-03-24 23:31:26.780 [main] BaseTest:30 - Start test 'testAddressCreation' with params [AddressData{, addressAlias='addressRef'firstName='Kolya', lastName='Ivanov', address='Petrovskogo st. 35', city='Kharkov', state='Alaska', zipCode='61033', country='United States', homePhone='+3809353613437', mobilePhone='093234567'}]
+[INFO ] 2018-03-24 23:31:35.211 [main] BaseTest:35 - Stop test testAddressCreation
+[INFO ] 2018-03-24 23:31:59.754 [main] BaseTest:30 - Start test 'testAddressCreation' with params [AddressData{, addressAlias='addressRef'firstName='Kolya', lastName='Ivanov', address='Petrovskogo st. 35', city='Kharkov', state='Alaska', zipCode='61033', country='United States', homePhone='+3809353613437', mobilePhone='093234567'}]
+[INFO ] 2018-03-24 23:32:08.369 [main] BaseTest:35 - Stop test testAddressCreation
+[INFO ] 2018-03-24 23:42:27.583 [main] BaseTest:30 - Start test 'testAddressCreation' with params [AddressData{, addressAlias='addressRef'firstName='Kolya', lastName='Ivanov', address='Petrovskogo st. 35', city='Kharkov', state='Alaska', zipCode='61033', country='United States', homePhone='+3809353613437', mobilePhone='093234567'}]
+[INFO ] 2018-03-24 23:42:35.889 [main] BaseTest:35 - Stop test testAddressCreation
+[INFO ] 2018-03-24 23:49:50.763 [main] BaseTest:30 - Start test 'testAddressCreation' with params [AddressData{, addressAlias='addressRef'firstName='Kolya', lastName='Ivanov', address='Petrovskogo st. 35', city='Kharkov', state='Alaska', zipCode='61033', country='United States', homePhone='+3809353613437', mobilePhone='093234567'}]
+[INFO ] 2018-03-24 23:50:08.200 [main] BaseTest:35 - Stop test testAddressCreation
+[INFO ] 2018-03-24 23:55:00.273 [main] BaseTest:35 - Stop test testAddressCreation
+[INFO ] 2018-03-25 00:02:24.515 [main] BaseTest:35 - Stop test testAddressCreation
+[INFO ] 2018-03-25 00:05:51.412 [main] BaseTest:35 - Stop test testAddressCreation
+[INFO ] 2018-03-25 00:15:13.881 [main] BaseTest:35 - Stop test testAddressCreation
+[INFO ] 2018-03-25 00:20:22.068 [main] BaseTest:35 - Stop test testAddressCreation
+[INFO ] 2018-03-25 00:21:33.788 [main] BaseTest:35 - Stop test testAddressCreation
+[INFO ] 2018-03-25 00:29:11.677 [main] BaseTest:35 - Stop test testAddressCreation
+[INFO ] 2018-03-25 00:29:53.074 [main] BaseTest:35 - Stop test testAddressCreation
+[INFO ] 2018-03-25 00:30:39.891 [main] BaseTest:35 - Stop test testAddressCreation
+[INFO ] 2018-03-25 00:31:30.096 [main] BaseTest:35 - Stop test testAddressCreation
+[INFO ] 2018-03-25 00:36:48.217 [main] BaseTest:35 - Stop test testAddressCreation
+[INFO ] 2018-03-25 10:17:20.904 [main] BaseTest:35 - Stop test testAddressCreation
+[INFO ] 2018-03-25 10:23:32.605 [main] BaseTest:35 - Stop test testAddressCreation
+[INFO ] 2018-03-25 10:26:11.881 [main] BaseTest:30 - Start test 'testAddressCreation' with params [AddressData{, addressAlias='addressRef'firstName='Kolya', lastName='Ivanov', address='Petrovskogo st. 35', city='Kharkov', state='Alaska', zipCode='61033', country='United States', homePhone='+3809353613437', mobilePhone='093234567'}]
+[INFO ] 2018-03-25 10:26:20.760 [main] BaseTest:35 - Stop test testAddressCreation
+[INFO ] 2018-03-25 10:26:40.851 [main] BaseTest:35 - Stop test testAddressCreation
+[INFO ] 2018-03-25 10:30:03.191 [main] BaseTest:35 - Stop test testAddressCreation
+[INFO ] 2018-03-25 10:35:06.648 [main] BaseTest:35 - Stop test testAddressCreation
+[INFO ] 2018-03-25 10:40:55.528 [main] BaseTest:35 - Stop test testAddressCreation
+[INFO ] 2018-03-25 10:43:32.556 [main] BaseTest:35 - Stop test testAddressCreation
+[INFO ] 2018-03-25 10:45:07.051 [main] BaseTest:35 - Stop test testAddressCreation
+[INFO ] 2018-03-25 10:46:30.655 [main] BaseTest:35 - Stop test testAddressCreation
